@@ -1,0 +1,14 @@
+C:\Users\tasi.dora\source\repos\NonVoid2\NonVoid2\bin\Debug\net8.0\NonVoid2.exe
+C:\Users\tasi.dora\source\repos\NonVoid2\NonVoid2\bin\Debug\net8.0\NonVoid2.deps.json
+C:\Users\tasi.dora\source\repos\NonVoid2\NonVoid2\bin\Debug\net8.0\NonVoid2.runtimeconfig.json
+C:\Users\tasi.dora\source\repos\NonVoid2\NonVoid2\bin\Debug\net8.0\NonVoid2.dll
+C:\Users\tasi.dora\source\repos\NonVoid2\NonVoid2\bin\Debug\net8.0\NonVoid2.pdb
+C:\Users\tasi.dora\source\repos\NonVoid2\NonVoid2\obj\Debug\net8.0\NonVoid2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasi.dora\source\repos\NonVoid2\NonVoid2\obj\Debug\net8.0\NonVoid2.AssemblyInfoInputs.cache
+C:\Users\tasi.dora\source\repos\NonVoid2\NonVoid2\obj\Debug\net8.0\NonVoid2.AssemblyInfo.cs
+C:\Users\tasi.dora\source\repos\NonVoid2\NonVoid2\obj\Debug\net8.0\NonVoid2.csproj.CoreCompileInputs.cache
+C:\Users\tasi.dora\source\repos\NonVoid2\NonVoid2\obj\Debug\net8.0\NonVoid2.dll
+C:\Users\tasi.dora\source\repos\NonVoid2\NonVoid2\obj\Debug\net8.0\refint\NonVoid2.dll
+C:\Users\tasi.dora\source\repos\NonVoid2\NonVoid2\obj\Debug\net8.0\NonVoid2.pdb
+C:\Users\tasi.dora\source\repos\NonVoid2\NonVoid2\obj\Debug\net8.0\NonVoid2.genruntimeconfig.cache
+C:\Users\tasi.dora\source\repos\NonVoid2\NonVoid2\obj\Debug\net8.0\ref\NonVoid2.dll
