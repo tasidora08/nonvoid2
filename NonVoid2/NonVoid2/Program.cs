@@ -77,6 +77,22 @@
             public string Season(int month)
             {
                 // TODO : Return season based on month value
+                if (1 <= month && month <= 3)
+                {
+                    return "winter";
+                }
+                else if (4 <= month && month <= 6)
+                {
+                    return "spring";
+                }
+                else if (7 <= month && month <= 9)
+                {
+                    return "summer";
+                }
+                else if (10 <= month && month <= 12)
+                {
+                    return "fall";
+                }
                 throw new NotImplementedException();
             }
 
