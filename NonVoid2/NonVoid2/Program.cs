@@ -27,7 +27,7 @@
             {
                 // TODO : Implement sum of three numbers
                 int sum = num1 + num2+num3;
-                return sum;
+                return sum ;
                 throw new NotImplementedException();
             }
 
@@ -65,6 +65,15 @@
                 int num = new Random().Next(0, 5);
                 // TODO : Return fortune cookie response based on random number
 
+                switch (num) {
+                    case 0:return "Your future looks bright" ;
+                    case 1:return "I see love in your future" ;
+                    case 2:return "Maybe you better stay home today";
+                    case 3:return "You will have fame and fortune" ;
+                    case 4:return "Happiness you will have" ;
+
+
+                }
                 throw new NotImplementedException();
             }
 
@@ -109,6 +118,9 @@
             public string EvenOdd(int num)
             {
                 // TODO : Determine if number is even or odd
+                if (num%2==0) { return"even"; }
+                else return "odd";
+
                 throw new NotImplementedException();
             }
 

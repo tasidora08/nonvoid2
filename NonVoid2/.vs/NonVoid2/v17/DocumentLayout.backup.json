@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\gal.peter\\Desktop\\nonvoid2\\NonVoid2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90BE9319-9E9D-4617-9072-5E64C103084D}|NonVoid2\\NonVoid2.csproj|c:\\users\\gal.peter\\desktop\\nonvoid2\\nonvoid2\\nonvoid2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BE9319-9E9D-4617-9072-5E64C103084D}|NonVoid2\\NonVoid2.csproj|solutionrelative:nonvoid2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gal.peter\\Desktop\\nonvoid2\\NonVoid2\\NonVoid2\\Program.cs",
+              "RelativeDocumentMoniker": "NonVoid2\\Program.cs",
+              "ToolTip": "C:\\Users\\gal.peter\\Desktop\\nonvoid2\\NonVoid2\\NonVoid2\\Program.cs",
+              "RelativeToolTip": "NonVoid2\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:46:53.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
