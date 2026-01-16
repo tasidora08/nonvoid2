@@ -27,7 +27,7 @@
             {
                 // TODO : Implement sum of three numbers
                 int sum = num1 + num2+num3;
-                return sum;
+                return sum ;
                 throw new NotImplementedException();
             }
 
