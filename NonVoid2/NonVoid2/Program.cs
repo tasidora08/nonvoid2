@@ -26,6 +26,8 @@
             public int SumThree(int num1, int num2, int num3)
             {
                 // TODO : Implement sum of three numbers
+                int sum = num1 + num2+num3;
+                return sum;
                 throw new NotImplementedException();
             }
 
@@ -62,6 +64,7 @@
             {
                 int num = new Random().Next(0, 5);
                 // TODO : Return fortune cookie response based on random number
+
                 throw new NotImplementedException();
             }
 
