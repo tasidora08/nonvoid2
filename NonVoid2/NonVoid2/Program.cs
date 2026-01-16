@@ -109,6 +109,9 @@
             public string EvenOdd(int num)
             {
                 // TODO : Determine if number is even or odd
+                if (num%2==0) { Console.WriteLine("even"); }
+                else Console.WriteLine("odd");
+
                 throw new NotImplementedException();
             }
 
